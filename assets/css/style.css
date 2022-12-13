@@ -133,7 +133,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #ffb727;
+  color: #BB8FCE;
 }
 
 .navbar .dropdown ul {
@@ -161,7 +161,7 @@ h6 {
   font-size: 14px;
   text-transform: none;
   font-weight: 400;
-  color: #3b434a;
+  color: #BB8FCE;
   letter-spacing: 1px;
 }
 
