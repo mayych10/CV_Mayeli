@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #BB8FCE;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #BB8FCE;
+  background: #000000;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -371,7 +371,7 @@ h6 {
 }
 
 #hero .btn-scroll:hover {
-  color: #BB8FCE;
+  color: #000000;
 }
 
 @media (min-width: 1024px) {
@@ -434,7 +434,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color:  #000000;
+  color:  #BB8FCE;
   position: relative;
   z-index: 2;
 }
@@ -537,7 +537,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #BB8FCE;
+  color: #000000;
   text-transform: uppercase;
 }
 
@@ -559,7 +559,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color:  #000000;
+  color:  #BB8FCE;
   line-height: 0;
 }
 
