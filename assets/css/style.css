@@ -10,7 +10,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #BB8FCE;
 }
 
 a {
@@ -172,7 +172,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #ffb727;
+  color: #BB8FCE;
 }
 
 .navbar .dropdown:hover>ul {
@@ -262,13 +262,13 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 14px;
-  color: #3b434a;
+  color: #BB8FCE;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ffb727;
+  color: #BB8FCE;
 }
 
 .navbar-mobile .getstarted,
@@ -303,7 +303,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #ffb727;
+  color: #BB8FCE;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -371,7 +371,7 @@ h6 {
 }
 
 #hero .btn-scroll:hover {
-  color: #ffb727;
+  color: #BB8FCE;
 }
 
 @media (min-width: 1024px) {
@@ -434,7 +434,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #3b434a;
+  color: #BB8FCE;
   position: relative;
   z-index: 2;
 }
@@ -474,7 +474,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #f4f5f6;
+  background-color: #BB8FCE;
   min-height: 40px;
   margin-top: 78px;
 }
@@ -537,7 +537,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #3b434a;
+  color: #BB8FCE;
   text-transform: uppercase;
 }
 
@@ -559,7 +559,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #ffb727;
+  color: #BB8FCE;
   line-height: 0;
 }
 
@@ -574,7 +574,7 @@ section {
 .about .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #ffb727;
+  color: #BB8FCE;
   float: left;
   line-height: 0;
 }
@@ -584,7 +584,7 @@ section {
   line-height: 30px;
   display: block;
   font-weight: 700;
-  color: #3b434a;
+  color: #BB8FCE;
   margin-left: 50px;
 }
 
@@ -650,7 +650,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #ffb727;
+  background-color: #BB8FCE;
 }
 
 /*--------------------------------------------------------------
@@ -661,7 +661,7 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #3b434a;
+  color: #BB8FCE;
 }
 
 .resume .resume-item {
@@ -676,7 +676,7 @@ section {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #ffb727;
+  color: #BB8FCE;
   margin-bottom: 10px;
 }
 
@@ -895,7 +895,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #f3a200;
+  color: #BB8FCE;
   border-color: #ffb727;
 }
 
