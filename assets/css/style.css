@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #BB8FCE;
+  color: #FEDCFF;
   text-decoration: none;
 }
 
@@ -262,13 +262,13 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 14px;
-  color: #BB8FCE;
+  color: #000000;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #BB8FCE;
+  color:  #000000;
 }
 
 .navbar-mobile .getstarted,
@@ -303,7 +303,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #BB8FCE;
+  color:  #000000;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -434,7 +434,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #BB8FCE;
+  color:  #000000;
   position: relative;
   z-index: 2;
 }
@@ -474,7 +474,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background-color: #BB8FCE;
+  background-color:  #000000;
   min-height: 40px;
   margin-top: 78px;
 }
@@ -559,7 +559,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #BB8FCE;
+  color:  #000000;
   line-height: 0;
 }
 
@@ -574,7 +574,7 @@ section {
 .about .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #BB8FCE;
+  color:  #000000;
   float: left;
   line-height: 0;
 }
@@ -584,7 +584,7 @@ section {
   line-height: 30px;
   display: block;
   font-weight: 700;
-  color: #BB8FCE;
+  color:  #000000;
   margin-left: 50px;
 }
 
@@ -650,7 +650,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #BB8FCE;
+  background-color:  #000000;
 }
 
 /*--------------------------------------------------------------
@@ -676,7 +676,7 @@ section {
   font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #BB8FCE;
+  color:  #000000;
   margin-bottom: 10px;
 }
 
@@ -895,7 +895,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #BB8FCE;
+  color:  #000000;
   border-color: #ffb727;
 }
 
